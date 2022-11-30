@@ -2,14 +2,11 @@
 import random
 
 number = random.randint(-10000, 10000)
-print(number)
 
-if number > 0:
-    remainder = number % 10
-elif number < 0:
+if number < 0:
     remainder = number % (-10)
-else:
-    remainder = 0
+elif number > 0:
+    remainder = number % 10
 
 if remainder > 5:
     print(
