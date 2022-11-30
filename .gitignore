@@ -182,3 +182,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 0x00-python-hello_world/cycle
+0x00-python-hello_world/q
+
