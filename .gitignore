@@ -184,5 +184,7 @@ dkms.conf
 0x00-python-hello_world/cycle
 0x00-python-hello_world/q
 0x00-python-hello_world/main.pyc
+0x00-python-hello_world/insert
+0x00-python-hello_world/__pycache__
 
 
