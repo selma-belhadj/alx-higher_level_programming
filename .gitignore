@@ -186,5 +186,6 @@ dkms.conf
 0x00-python-hello_world/main.pyc
 0x00-python-hello_world/insert
 0x00-python-hello_world/__pycache__
+0x02-python-import_modules/__pycache__
 
 
