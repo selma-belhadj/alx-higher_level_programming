@@ -66,10 +66,10 @@ Files that start with:
 ```
 
 ## Environment
-* Language: Python 3 and C 
+* Language: Python 3
 * OS: Ubuntu 14.04 LTS
 * Compiler: python3 and gcc 4.8.4
-* Style guidelines: [Pycodestyle](https://pypi.org/project/pycodestyle/) and [Betty style](https://github.com/holbertonschool/Betty/wiki)
+* Style guidelines: [Pycodestyle](https://pypi.org/project/pycodestyle/) 
 
 ## Getting Started
 - clone the repository
