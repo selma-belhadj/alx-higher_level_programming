@@ -188,5 +188,6 @@ dkms.conf
 0x00-python-hello_world/__pycache__
 0x02-python-import_modules/__pycache__
 0x03-python-data_structures/main_files
+0x03-python-data_structures/*-main.py
 */__pycache__
 
