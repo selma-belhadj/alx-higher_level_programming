@@ -16,6 +16,7 @@ the *-main.c test files that showcase examples of how to use functions
 8. prints if integer; prints error to stderr
 9. executes a function safely
 10. write Python function that corresponds to a certain bytecode
+11. Write C functions that print basic information about Python lists, bytes, and float objects.
 
 ## Environment
 * Language: Python 3
