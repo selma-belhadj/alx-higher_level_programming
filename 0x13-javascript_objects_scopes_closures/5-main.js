@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 const Square = require('./5-square');
 
 const s1 = new Square(4);
