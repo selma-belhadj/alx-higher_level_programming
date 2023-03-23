@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 let cpt = -1;
 exports.logMe = function (item) {
