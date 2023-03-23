@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 exports.nbOccurences = function (list, searchElement) {
   let cpt = 0;
