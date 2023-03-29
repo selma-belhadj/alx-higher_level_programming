@@ -21,8 +21,8 @@ function ConcatTwoFiles (fileOne, fileTwo, fileThree) {
     fs.readFile(fileTwo, 'utf8', (err, data2) => {
       if (err) throw err;
 
-      const concatenated = data1 + '\n' + data2;
-      fs.writeFile(fileThree, concatenated, 'utf8', (err) => {
+      const concatenated = data1 + data2;
+      fs.writeFileSync(fileThree, concatenated, 'utf8', (err) => {
         if (err) throw err;
       });
     });
